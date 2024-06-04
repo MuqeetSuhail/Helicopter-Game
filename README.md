@@ -12,6 +12,6 @@ During gameplay, you’ll experience the following:
 
 <b>Note: Audio rights belong to their respective owners.</b>
 
-**2. Controls:** Control the helicopter using either the Spacebar or the Mouse Left Button as alternatives for movement. Key and mouse events are handled for seamless gameplay.
+**2. Controls:** Control the helicopter using either the <b>Spacebar</b> or the <b>Mouse Left Button</b> as alternatives for movement. Key and mouse events are handled for seamless gameplay.
 
 Feel free to explore the code of this fun project! 🚀🌐
